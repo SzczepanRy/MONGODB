@@ -1,0 +1,17 @@
+C:\Program Files\MongoDB\Server\7.0
+
+C:\Program Files\MongoDBshell\bin
+
+mongosh
+
+enable shell
+
+show databases -all datanases
+
+use admin --switch to a difrent db
+
+--set host
+
+mongo --host localhost --port 27017
+
+show collections 
